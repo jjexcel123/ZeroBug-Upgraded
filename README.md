@@ -69,5 +69,5 @@ A fork of the original ZeroBug hexapod by Max.K, redesigned for robust power del
 ## **License**
 This project is licensed under the GNU General Public License v3.0 (GPL-3.0).
 
-You are free to use, modify, and redistribute this software and its associated hardware designs, provided that any derivative works are also distributed under the same license. There is no warranty for the software or hardware; use it at your own risk.
+You are free to use, modify, and redistribute this software and its associated hardware designs, provided that any derivative works are also distributed under the same license. There is no warranty for the software or hardware; use it at your own risk. For full terms see the GPL v3.0 License: https://www.gnu.org/licenses/gpl-3.0.en.html
 
